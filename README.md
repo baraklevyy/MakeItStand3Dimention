@@ -7,7 +7,7 @@ _Make it stand: balancing shapes for 3D fabrication_ [[1]](#1).
 
 ## Application
 
-<a href="https://drive.google.com/uc?export=view&id=1Xn62txXpSUd2PA4c1VrxTVJE3H-W7PoX"><img src="https://drive.google.com/uc?export=view&id=1Xn62txXpSUd2PA4c1VrxTVJE3H-W7PoX" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+![image](https://drive.google.com/uc?export=view&id=<1Xn62txXpSUd2PA4c1VrxTVJE3H-W7PoX>)
 
 In reality when implementing 3D the oblect may not be balance as we desire. My program implement a method that helps users create a balanced 3D object when the only argument necessary are: 1. The point of equallibirium. 2. The orientation of the object.
 
