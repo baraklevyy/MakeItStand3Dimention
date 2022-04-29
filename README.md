@@ -7,6 +7,10 @@ _Make it stand: balancing shapes for 3D fabrication_ [[1]](#1).
 
 ## Application
 
+<iframe src="https://onedrive.live.com/embed?cid=193DE0B5416C5CA6&amp;resid=193DE0B5416C5CA6%2129367&amp;authkey=AP0CGcciLoKoUEM&amp;em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+In reality when implementing 3D the oblect may not be balance as we desire. My program implement a method that helps users create a balanced 3D object when the only argument necessary are: 1. The point of equallibirium. 2. The orientation of the object.
+
 A 3D object printed out, in reality, may not balance as we want it. Our program helps a user create a balanced 3D object given a specified point-of-balance and object orientation. Our program selects regions within the object that it decides will be empty when printed. As a result, this adjusts the center of mass for the object and balances it. We assume that the objects we are working with solid objects (not hollow).
 
 Once the program is running, we can begin choosing our balancing options using the
