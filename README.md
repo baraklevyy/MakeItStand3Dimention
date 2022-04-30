@@ -6,7 +6,7 @@ _Make it stand: balancing shapes for 3D fabrication_ [[1]](#1).
 
 
 ## Application
-Please refer the link for detailed information.
+please refer the link for detailed information.
 <a href="Barak_Make_it_Stand.pdf">This is a link</a>
  
 
@@ -22,8 +22,10 @@ First we have to choose the point of equilibrium using the menu bar of the progr
 
  Later we want tp adjust the object position. The program let the user to user three rotational angels: Yaw, Roll and Pitch.
  Point worth mentioning is the plane shown in the program, this plane represents the ground.
+Next, we adjust the rotation of the object. Rotation is defined in terms of yaw, pitch, 
+and roll. Note that the plane shown on the screen represents the ground.
 
-<img src="images/rotate.png" alt="drawing" width="600">
+<img src="anglesMoving.gif" alt="drawing" width="600">
 <br/>
 <br/>
 
@@ -99,24 +101,6 @@ The cmake build system will attempt to find libigl according to environment vari
 
 Make sure to use the `--recursive` flag if you're cloning this project. This will clone the submodules for this project — specifically, `LIBIGL`.
 
-## Compile
-
-Compile this project using the standard cmake routine:
-
-    mkdir build
-    cd build
-    cmake ..
-    make
-
-This should find and build the dependencies.
-
-## Run
-
-From within the `build` directory just issue:
-
-    ./make-it-stand
-
-A glfw app should launch displaying the default bunny mesh with menu options to select the balancing options.
 
 ## References
 <a id="1">[1]</a> 
