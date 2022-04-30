@@ -6,7 +6,7 @@ _Make it stand: balancing shapes for 3D fabrication_ [[1]](#1).
 
 
 ## Application
-please refer the link for detailed information.
+Please refer the link for detailed information.
 <a href="Barak_Make_it_Stand.pdf">This is a link</a>
  
 
@@ -22,8 +22,6 @@ First we have to choose the point of equilibrium using the menu bar of the progr
 
  Later we want tp adjust the object position. The program let the user to user three rotational angels: Yaw, Roll and Pitch.
  Point worth mentioning is the plane shown in the program, this plane represents the ground.
-Next, we adjust the rotation of the object. Rotation is defined in terms of yaw, pitch, 
-and roll. Note that the plane shown on the screen represents the ground.
 
 <img src="images/rotate.png" alt="drawing" width="600">
 <br/>
