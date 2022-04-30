@@ -10,19 +10,17 @@ _Make it stand: balancing shapes for 3D fabrication_ [[1]](#1).
  
 
 In reality when implementing 3D the oblect may not be balance as we desire. My program implement a method that helps users create a balanced 3D object when the only argument necessary are: 1. The point of equallibirium. 2. The orientation of the object.
+My program adjust the center of mass of the object and a consequence balance the entire object. 
 
-A 3D object printed out, in reality, may not balance as we want it. Our program helps a user create a balanced 3D object given a specified point-of-balance and object orientation. Our program selects regions within the object that it decides will be empty when printed. As a result, this adjusts the center of mass for the object and balances it. We assume that the objects we are working with solid objects (not hollow).
+First we have to choose the point of equilibrium using the menu bar of the program. The desired point of equilibrium will first appear red and when the program ready to balance it'll turn into green.
 
-Once the program is running, we can begin choosing our balancing options using the
-**Make It Stand** menu on the left. First, we configure
-the point of balance by clicking on object. The selected balance point
-will appear as a yellow dot.
 
 <img src="images/select-point.png" alt="drawing" width="600">
 <br/>
 <br/>
 
-
+ Later we want tp adjust the object position. The program let the user to user three rotational angels: Yaw, Roll and Pitch.
+ Point worth mentioning is the plane shown in the program, this plane represents the ground.
 Next, we adjust the rotation of the object. Rotation is defined in terms of yaw, pitch, 
 and roll. Note that the plane shown on the screen represents the ground.
 
