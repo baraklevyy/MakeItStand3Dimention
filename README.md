@@ -6,7 +6,7 @@ _Make it stand: balancing shapes for 3D fabrication_ [[1]](#1).
 
 
 ## Application
-please refer the link for detailed information.
+Please refer the link for detailed information.
 <a href="Barak_Make_it_Stand.pdf">This is a link</a>
  
 
