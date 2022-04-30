@@ -15,7 +15,7 @@ My program adjust the center of mass of the object and a consequence balance the
 First we have to choose the point of equilibrium using the menu bar of the program. The desired point of equilibrium will first appear red and when the program ready to balance it'll turn into green.
 
 
-<img src="images/select-point.png" alt="drawing" width="600">
+<img src="pointOfEqulibrium.gif" alt="drawing" width="600">
 <br/>
 <br/>
 
