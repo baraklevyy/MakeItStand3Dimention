@@ -31,7 +31,7 @@ Point worth mentioning is the plane shown in the program, this plane represents 
 Now that we defined how our object will look statically. We can begin the carving process
 to make a balanced object. 
 
-<img src="hourseCarvedGif.gif" alt="drawing" width="600">
+<img src="oneIterationGif.gif" alt="drawing" width="600">
 <br/>
 <br/>
 
