@@ -20,10 +20,8 @@ First we have to choose the point of equilibrium using the menu bar of the progr
 <br/>
 <br/>
 
- Later we want tp adjust the object position. The program let the user to user three rotational angels: Yaw, Roll and Pitch.
- Point worth mentioning is the plane shown in the program, this plane represents the ground.
-Next, we adjust the rotation of the object. Rotation is defined in terms of yaw, pitch, 
-and roll. Note that the plane shown on the screen represents the ground.
+Later we want tp adjust the object position. The program let the user to user three rotational angels: Yaw, Roll and Pitch.
+Point worth mentioning is the plane shown in the program, this plane represents the ground.
 
 <img src="anglesMoving.gif" alt="drawing" width="600">
 <br/>
@@ -31,18 +29,11 @@ and roll. Note that the plane shown on the screen represents the ground.
 
 
 Now that we defined how our object will look statically. We can begin the carving process
-to make a balanced object. At first, nothing is carved, meaning that the inside of the
-object is full/solid.
+to make a balanced object. 
 
-<img src="images/begin-carving.png" alt="drawing" width="600">
+<img src="oneIterationGif.gif" alt="drawing" width="600">
 <br/>
 <br/>
-
-
-Click the **Carve** button run one iteration of carving. Click the  **Finish Carving** button
-to complete the carving of the image.
-
-<img src="images/finish-carving.png" alt="drawing" width="600">
 
 
 ## Implementation of Balancing
