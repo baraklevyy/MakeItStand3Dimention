@@ -1,4 +1,4 @@
-# Make It Balance
+# Make It Stand
 
 In this program, we implemented a methodology to modify 3D objects in order to balance them
 on defined balance points. The methodology is described in detail in the paper:
