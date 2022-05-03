@@ -54,9 +54,5 @@ In a way the COM is exactly above the POB (point of balance) - the object is sta
 As one can infer, one side of the mentioned plane is contained the COM of the object while at the same time the other side is not.
 The method is to erase voxels from the contained side, that is, removing voxels from that side potentially make the COM closer to the POB and therfore make the whole object steady.
 
-
-<a id="1">[1]</a> 
-Romain Prévost, Emily Whiting, Sylvain Lefebvre, and Olga Sorkine-Hornung. 2013. 
-Make it stand: balancing shapes for 3D fabrication. 
-ACM Trans. Graph. 32, 4, Article 81 (July 2013), 10 pages. 
-DOI: https://doi.org/10.1145/2461912.2461957
+#### Reference
+https://doi.org/10.1145/2461912.2461957
