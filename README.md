@@ -28,8 +28,14 @@ Point worth mentioning is the plane shown in the program, this plane represents 
 <br/>
 
 
-Now that we defined how our object will look statically. We can begin the carving process
-to make a balanced object. 
+Now that we defined how our object will look statically we can begin the carving process
+to make a balanced object. The program let the user to inspect at individual carving step (optional using the **carving for one iteration** button). 
+
+<img src="oneIterationGif.gif" alt="drawing" width="600">
+<br/>
+<br/>
+
+As well as to single step at a time, the program can carve the whole object until reaching the balanced critiria. 
 
 <img src="oneIterationGif.gif" alt="drawing" width="600">
 <br/>
