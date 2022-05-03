@@ -56,3 +56,4 @@ The method is to erase voxels from the contained side, that is, removing voxels 
 
 #### Reference
 https://doi.org/10.1145/2461912.2461957
+In this project I used libigl.
