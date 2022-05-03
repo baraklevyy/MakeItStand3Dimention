@@ -55,5 +55,5 @@ As one can infer, one side of the mentioned plane is contained the COM of the ob
 The method is to erase voxels from the contained side, that is, removing voxels from that side potentially make the COM closer to the POB and therfore make the whole object steady.
 
 #### Reference
-https://doi.org/10.1145/2461912.2461957
+[1] https://doi.org/10.1145/2461912.2461957
 In this project I used libigl.
